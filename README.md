@@ -10,7 +10,6 @@
 <h2 id="skills">Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px"></h2>
 <p>
 <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&amp;logo=php&amp;logoColor=white&amp;color=ffffff" alt="">
-<img src="https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&amp;logo=c%2B%2B&amp;logoColor=white&amp;color=ffffff" alt="">
 <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&amp;logo=html5&amp;logoColor=white&amp;color=ffffff" alt="">
 <img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&amp;logo=css3&amp;logoColor=white&amp;color=ffffff" alt="">
 <img src="https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&amp;logo=bootstrap&amp;logoColor=white&amp;color=ffffff" alt="">
@@ -24,7 +23,7 @@
 <img src="https://img.shields.io/badge/Code-Android-informational?style=flat&amp;logo=android&amp;logoColor=white&amp;color=ffffff" alt="">
 <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&amp;logo=mysql&amp;logoColor=white&amp;color=ffffff" alt="">
 <img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=ffffff" alt="PostgreSQL Badge">
-<img src="https://img.shields.io/badge/Database-SQLite-informational?style=flat&amp;logo=sqlite&amp;logoColor=white&amp;color=ffffff" alt="">
+<img src="https://img.shields.io/badge/Database-Firebase-information?style=lat&amp&logo=firebase&logoColor=white&amp;color=ffffff">
 
 
 </a>
