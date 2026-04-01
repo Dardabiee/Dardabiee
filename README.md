@@ -1,6 +1,6 @@
 
 <h1>Hi there, I'm Darda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>   
-<p>I'm a passionate mobile front-end developer with a strong focus on creating beautiful, user-friendly applications. With expertise in Flutter, Dart, and UI/UX design, I love turning creative ideas into functional and visually appealing applications.
+<p>
 </p>
 <p>Want to know more about me?</p>
   <p>
